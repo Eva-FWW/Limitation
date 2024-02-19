@@ -36,7 +36,6 @@ public class Main {
             System.out.printf("%3d", a[i][j]);
         }
         System.out.println();
-        System.out.println();
     }
 
 }
